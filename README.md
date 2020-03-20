@@ -1,3 +1,5 @@
 # check-mattermost-version
 
-1.0
+%define mattermost_release 5.17.1
+
+asdf
